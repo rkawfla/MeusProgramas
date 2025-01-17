@@ -1,4 +1,4 @@
-Tendo em vista que os comandos curl, nc e/ou openssl por vezes deves ser feitos de forma repetitiva, criei essa ferramenta em bash script com a ajuda do Chat GPT.
+Tendo em vista que os comandos curl, nc e/ou openssl por vezes devem ser feitos de forma repetitiva para ter informações simples, criei essa ferramenta em bash script com a ajuda do Chat GPT.
 
 A finalidade é simples: ter um retorno de qual código um determinado método HTTP terá ao ser enviada uma requisição a um host.
 
