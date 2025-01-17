@@ -2,8 +2,6 @@ Tendo em vista que os comandos curl, nc e/ou openssl por vezes deves ser feitos 
 
 A finalidade é simples: ter um retorno de qual código um determinado método HTTP terá ao ser enviada uma requisição a um host.
 
-O código está no link: https://gist.github.com/rkawfla/cbc3155607c61a65f21106e26f2d144b
-
 Exemplo de uso e resultado:
 
 ![Image](https://github.com/user-attachments/assets/9292ee14-7af5-47fa-ad85-e670d1ce0df6)
