@@ -4,7 +4,8 @@ A finalidade é simples: ter um retorno de qual código um determinado método H
 
 Exemplo de uso e resultado:
 
-![Image](https://github.com/user-attachments/assets/9292ee14-7af5-47fa-ad85-e670d1ce0df6)
+![image](https://github.com/user-attachments/assets/22cfdf3f-0fdd-4cb5-86db-b9c1c2f5efdb)
+
 
 *Não utilize para atividades criminosas.
 
