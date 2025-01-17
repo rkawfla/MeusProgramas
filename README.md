@@ -9,10 +9,10 @@ Exemplo de uso e resultado:
 *Não utilize para atividades criminosas.
 
 **Lei Nº 13.709, de 14 de agosto de 2018 - Lei Geral de Proteção de Dados Pessoais**
-https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+<p>https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm</p>
 
 **Lei Nº 12.965, de 23 de abril de 2014 - Marco Civil da Internet**
-https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+<p>https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm</p>
 
 **Lei Nº 12.737, de 30 de novembro de 2012 - Carolina Dieckmann**
-https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm
+<p>https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm</p>
